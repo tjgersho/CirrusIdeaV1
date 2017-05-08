@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine On
+RewriteCond %{REMOTE_ADDR} !184.168.203.1
+RewriteRule ^(.*)$      http://www.cirrusidea.com/ [L]

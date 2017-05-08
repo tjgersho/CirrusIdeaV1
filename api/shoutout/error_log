@@ -1,0 +1,13 @@
+[06-Oct-2015 15:57:22 America/Chicago] PHP Parse error:  syntax error, unexpected ''</p><br /><br /><p>Check out ' (T_CONSTANT_ENCAPSED_STRING) in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 101
+[07-Oct-2015 17:52:19 America/Chicago] PHP Warning:  checkdnsrr(): Host cannot be empty in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 68
+[07-Oct-2015 17:52:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php:68) in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 160
+[07-Oct-2015 17:54:16 America/Chicago] PHP Warning:  checkdnsrr(): Host cannot be empty in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 68
+[07-Oct-2015 17:54:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php:68) in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 160
+[07-Oct-2015 17:56:01 America/Chicago] PHP Warning:  checkdnsrr(): Host cannot be empty in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 68
+[07-Oct-2015 17:56:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php:68) in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 160
+[07-Oct-2015 18:01:27 America/Chicago] PHP Warning:  checkdnsrr(): Host cannot be empty in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 56
+[07-Oct-2015 18:01:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php:56) in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 164
+[20-Oct-2015 11:31:06 America/Chicago] PHP Fatal error:  Class 'CirrusEmail' not found in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 137
+[20-Oct-2015 11:32:35 America/Chicago] PHP Fatal error:  Class 'CirrusEmail' not found in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 137
+[20-Oct-2015 11:33:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home4/tjgersho/public_html/cirrusidea/api/Classes/htmlemail_functions.php on line 229
+[20-Oct-2015 11:35:57 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/tjgersho/public_html/cirrusidea/api/shoutout/index.php on line 129

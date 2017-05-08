@@ -1,0 +1,40 @@
+[20-Aug-2015 11:21:48 America/Chicago] PHP Warning:  Division by zero in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 46
+[20-Aug-2015 11:21:48 America/Chicago] PHP Warning:  Division by zero in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 50
+[20-Aug-2015 11:43:53 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 31
+[20-Aug-2015 11:47:01 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 26
+[20-Aug-2015 13:59:35 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 84
+[20-Aug-2015 14:36:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 108
+[24-Aug-2015 13:43:40 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1226): User 'tjgersho_cg92823' has exceeded the 'max_connections_per_hour' resource (current value: 1) in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 6
+[24-Aug-2015 13:43:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 23
+[24-Aug-2015 13:43:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 24
+[24-Aug-2015 13:43:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 45
+[24-Aug-2015 13:43:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 50
+[24-Aug-2015 13:43:40 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home4/tjgersho/public_html/cirrusidea/api/fundsdata/index.php on line 149
+[03-Sep-2015 12:10:29 America/Chicago] PHP Parse error:  syntax error, unexpected ']' in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 91
+[03-Sep-2015 12:10:46 America/Chicago] PHP Parse error:  syntax error, unexpected ']' in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 91
+[03-Sep-2015 12:11:16 America/Chicago] PHP Fatal error:  Cannot redeclare filetype() in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 123
+[03-Sep-2015 12:12:24 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 191
+[03-Sep-2015 17:36:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$p_fileNUM' (T_VARIABLE) in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 166
+[03-Sep-2015 17:36:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$p_fileNUM' (T_VARIABLE) in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 166
+[03-Sep-2015 17:36:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$p_fileNUM' (T_VARIABLE) in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 166
+[03-Sep-2015 17:37:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$p_fileNUM' (T_VARIABLE) in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 166
+[03-Sep-2015 17:37:51 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 176
+[03-Sep-2015 17:38:17 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 178
+[03-Sep-2015 17:40:59 America/Chicago] PHP Warning:  unlink(../files/Art/Lighthouse.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 181
+[03-Sep-2015 17:40:59 America/Chicago] PHP Warning:  unlink(../files/Art/Lighthousethum63820.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 182
+[03-Sep-2015 17:46:12 America/Chicago] PHP Warning:  unlink(../files/Art/Tulips.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 181
+[03-Sep-2015 17:46:12 America/Chicago] PHP Warning:  unlink(../files/Art/Tulipsthum63820.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 182
+[03-Sep-2015 17:46:20 America/Chicago] PHP Warning:  unlink(../files/Art/.): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 181
+[03-Sep-2015 17:46:20 America/Chicago] PHP Warning:  unlink(../files/Art/thum63820.): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 182
+[03-Sep-2015 17:46:50 America/Chicago] PHP Warning:  unlink(../files/Art/.): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 181
+[03-Sep-2015 17:46:50 America/Chicago] PHP Warning:  unlink(../files/Art/thum63820.): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 182
+[03-Sep-2015 17:47:48 America/Chicago] PHP Warning:  unlink(../files/Art/Jellyfish.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 181
+[03-Sep-2015 17:47:48 America/Chicago] PHP Warning:  unlink(../files/Art/Jellyfishthum63820.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 182
+[03-Sep-2015 17:47:51 America/Chicago] PHP Warning:  unlink(../files/Art/Penguins.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 181
+[03-Sep-2015 17:47:51 America/Chicago] PHP Warning:  unlink(../files/Art/Penguinsthum63820.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 182
+[03-Sep-2015 17:47:54 America/Chicago] PHP Warning:  unlink(../files/Art/Jellyfish5963.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 181
+[03-Sep-2015 17:47:54 America/Chicago] PHP Warning:  unlink(../files/Art/Jellyfish5963thum63820.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 182
+[03-Sep-2015 17:47:57 America/Chicago] PHP Warning:  unlink(../files/Art/Chrysanthemum.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 181
+[03-Sep-2015 17:47:57 America/Chicago] PHP Warning:  unlink(../files/Art/Chrysanthemumthum63820.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 182
+[03-Sep-2015 17:47:59 America/Chicago] PHP Warning:  unlink(../files/Art/Desert.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 181
+[03-Sep-2015 17:47:59 America/Chicago] PHP Warning:  unlink(../files/Art/Desertthum63820.jpg): No such file or directory in /home4/tjgersho/public_html/cirrusidea/api/projectdata/index.php on line 182

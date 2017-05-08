@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteCond  %{REQUEST_FILENAME} -f
+RewriteCond %{REQUEST_URI} !^(.*)\/(index|browse|uploader)\.php$ [NC]
+RewriteCond %{REQUEST_FILENAME} !^(.*)\.MOV$ [NC]
+RewriteRule ^(.*)$      http://www.cirrusidea.com/servefile.php?file=$1 [L]

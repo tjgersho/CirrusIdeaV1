@@ -1,0 +1,47 @@
+AddType application/octet-stream .mov 
+Options +FollowSymLinks
+RewriteEngine On
+
+
+
+RewriteCond %{HTTP_HOST} ^www.cirrusidea.com$ [NC]
+RewriteRule ^(.*)$ http://cirrusidea.com$1 [R=301]
+
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f [OR]
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d
+RewriteRule ^ - [L]
+
+# If the requested resource doesnt exist, use index.html
+RewriteRule ^ /index.php
+
+
+#RewriteCond %{REQUEST_FILENAME} !/index.php
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^([^?]*)$  http://cirrusidea.com/index.php/$1 [NC,L,QSA]
+
+#RewriteCond %{REQUEST_URI} ^/(stats/|missing\.html|failed_auth\.html|error/).* [NC]
+#RewriteRule .* - [L]
+
+#RewriteCond %{ENV:REDIRECT_STATUS} 200
+#RewriteRule .* - [L]
+    
+    
+#RewriteRule ^/(.*)\.php$ - [L] 
+#RewriteCond %{REQUEST_FILENAME} !-f 
+#RewriteCond %{REQUEST_FILENAME} !-d 
+#RewriteRule ^/(.*)$ /$1.php [QSA,L] 
+
+ 
+#AngularJS Rules 
+#RewriteRule ^/$ - [L] 
+#RewriteCond %{REQUEST_FILENAME} !-f 
+#RewriteCond %{REQUEST_FILENAME} !-d 
+#RewriteRule ^(.*)$ / [QSA,L] 
+
+
+
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_URI} !index
+#RewriteRule (.*) index.php [L]

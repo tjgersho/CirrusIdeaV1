@@ -1,0 +1,2 @@
+
+[09-Jul-2015 09:44:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home4/tjgersho/public_html/cirrusidea/api/v1/api.php on line 18

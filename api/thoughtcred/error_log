@@ -1,0 +1,5 @@
+[18-Aug-2015 12:41:42 America/Chicago] PHP Parse error:  syntax error, unexpected '"', "' (T_CONSTANT_ENCAPSED_STRING) in /home4/tjgersho/public_html/cirrusidea/api/thoughtcomment/index.php on line 37
+[18-Aug-2015 14:20:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'printf' (T_STRING) in /home4/tjgersho/public_html/cirrusidea/api/thoughtcred/index.php on line 50
+[18-Aug-2015 14:21:18 America/Chicago] PHP Parse error:  syntax error, unexpected '%' in /home4/tjgersho/public_html/cirrusidea/api/thoughtcred/index.php on line 50
+[18-Aug-2015 14:21:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/tjgersho/public_html/cirrusidea/api/thoughtcred/index.php on line 60
+[18-Aug-2015 14:22:06 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/tjgersho/public_html/cirrusidea/api/thoughtcred/index.php on line 76

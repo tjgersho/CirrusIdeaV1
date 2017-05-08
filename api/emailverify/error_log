@@ -1,0 +1,12 @@
+[05-Oct-2015 15:29:38 America/Chicago] PHP Fatal error:  Call to undefined function replace() in /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php on line 19
+[05-Oct-2015 15:32:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php:22) in /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php on line 43
+[05-Oct-2015 15:33:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php:20) in /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php on line 46
+[05-Oct-2015 15:34:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php:14) in /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php on line 47
+[05-Oct-2015 15:34:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php:12) in /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php on line 45
+[05-Oct-2015 15:35:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php:12) in /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php on line 45
+[05-Oct-2015 15:54:06 America/Chicago] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: travis.gxxyyyatsymparadigmmotion.com' in /home4/tjgersho/public_html/cirrusidea/phplib/class.phpmailer.php:781
+Stack trace:
+#0 /home4/tjgersho/public_html/cirrusidea/phplib/class.phpmailer.php(717): PHPMailer->addAnAddress('to', 'travis.gxxyyyat...', 'bob2')
+#1 /home4/tjgersho/public_html/cirrusidea/api/emailverify/index.php(98): PHPMailer->addAddress('travis.gxxyyyat...', 'bob2')
+#2 {main}
+  thrown in /home4/tjgersho/public_html/cirrusidea/phplib/class.phpmailer.php on line 781

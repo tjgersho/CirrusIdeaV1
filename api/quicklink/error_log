@@ -1,0 +1,1 @@
+[02-Nov-2015 09:32:47 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting ',' or ';' in /home4/tjgersho/public_html/cirrusidea.com/api/quicklink/index.php on line 73

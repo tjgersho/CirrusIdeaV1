@@ -1,0 +1,6 @@
+[14-Aug-2015 12:09:18 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/tjgersho/public_html/cirrusidea/api/userideas/index.php on line 118
+[14-Aug-2015 13:13:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/tjgersho/public_html/cirrusidea/api/userthoughts/index.php on line 92
+[14-Aug-2015 14:53:46 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/tjgersho/public_html/cirrusidea/api/userthoughts/index.php on line 198
+[21-Aug-2015 20:37:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/tjgersho/public_html/cirrusidea/api/userthoughts/index.php on line 85
+[21-Aug-2015 20:37:24 America/Chicago] PHP Warning:  Division by zero in /home4/tjgersho/public_html/cirrusidea/api/userthoughts/index.php on line 89
+[21-Aug-2015 20:37:57 America/Chicago] PHP Warning:  Division by zero in /home4/tjgersho/public_html/cirrusidea/api/userthoughts/index.php on line 89
